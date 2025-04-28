@@ -43,7 +43,7 @@ The goal of the project was to derive meaningful insights from raw ecommerce dat
 
 ### 🗂️ Basic Insights
 1. List of unique cities where customers are located  
-2. Number of orders placed in 2017  
+2. Orders placed in the particular year like in 2017.
 3. Total sales per category  
 4. Percentage of orders paid in installments  
 5. Customer count by state
