@@ -1,6 +1,9 @@
 # Target-Ecommerce-Analysis
 **Target's Dataset : https://www.kaggle.com/datasets/devarajv88/target-dataset?select=order_items.csv**
 
+## PROBLEM STATEMENT
+Target, a globally recognized retail brand, was facing challenges in understanding its Brazil-based e-commerce performance due to fragmented raw data across various departments. The company needed a unified analytical solution to uncover insights related to customer behavior, sales trends, product performance, and operational efficiency. This project provides an end-to-end data analytics solution that transformed raw data into actionable insights to support strategic business decisions.
+
 ## 📌 Project Overview
 
 This project is a comprehensive data analytics solution developed to analyze customer behavior, sales performance, and operational KPIs for the **Target Ecommerce Company**. The analysis was carried out using **MySQL** for data storage and querying, **Python** for data processing and statistical analysis, and **Power BI** for interactive dashboarding and business reporting.
